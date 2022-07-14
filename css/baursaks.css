@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+}
+
+.row_title{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    color: hsl(0, 68%, 42%)
+}
+
+.block_img_1{
+    width: 647px;
+    height: 500px;
+}
+
+.block_img_2{
+    width: 650px;
+    height: 500px;
+}
+
+.row_2{
+    margin-bottom: 50px;
+}
+
+.block_text{
+    margin-top: 50px;
+    text-align: justify;
+    font-size: 25px;
+    font-weight: 500;
+    color: rgb(255, 165, 0);
+}
